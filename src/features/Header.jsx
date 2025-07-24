@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button"
 export default function Header() {
   return (
-    <header className=" sticky bg-gray-900/90 backdrop-blur-sm shadow-lg border-b border-red-800/30">
-      <div className="max-w-4xl mx-auto px-4 py-4">
+    <header className=" sticky  bg-gray-900/90 backdrop-blur-sm shadow-lg border-b border-red-800/30">
+      <div className="max-w-6xl mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
             <div className="bg-gradient-to-r from-red-600 to-red-700 p-2 rounded-lg shadow-lg">
